@@ -9,7 +9,7 @@ date: 2019-11-05 08:44:38 -0400
 author: mac
 short-description: Update planner tasks
 ---
-![banner](/assets/apps4pro-logo-new.png)
+![banner](../assets/apps4pro-logo-new.png)
 
 Apps4.Pro Planner Migrator (Chrome Extension) helps users who want to move from Trello to Microsoft Planner easily. All you need to do is to export JSON file for the board from Trello and import to Planner. Within minutes all Boards and cards in Trello are imported to Planner as Plans and Tasks. That’s how Apps4.Pro made your life simple.
 
